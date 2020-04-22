@@ -1,4 +1,4 @@
-# RWvsARIMA
+# RW_vs_ARIMA
 Random walk VS ARIMA model in predicting exchange rates
 
 Back in 1983 two economists Richard Meese and Kenneth Rogoff published paper, where they compare the out-of-sample predictive accuracy of different structural models and time series exchange rate models against Random walk forecasts. They found that a random walk model performs at least as good as any estimated model.
